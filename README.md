@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  :pencil:
 Eu sou Wesley Erik Faria, sou Desenvolvedor Front-End atualmente estou criando Projetos com:
 <br>
 <br>
