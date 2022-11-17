@@ -10,5 +10,4 @@ Eu sou Wesley Erik Faria, sou Desenvolvedor Front-End atualmente estou criando P
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt react.logo" />
 <br>
 <br>
-[![Wesley stats](https://github-readme-stats.vercel.app/api?username=wesleyef)](https://github.com/anuraghazra/github-readme-stats)
 
